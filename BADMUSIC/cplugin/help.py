@@ -22,7 +22,7 @@ HELP_COMMAND = get_command("HELP_COMMAND")
 COLUMN_SIZE = 4  # number of  button height
 NUM_COLUMNS = 3  # number of button width
 
-donate = "https://envs.sh/Sgb.jpg"
+donate = "https://envs.sh/ZbS.jpg"
 
 
 class EqInlineKeyboardButton(InlineKeyboardButton):
@@ -338,8 +338,8 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="🔗 ɪɴsᴛᴀ 🔗", url=f"instagram.com/lll_bad_munda_lll"),
-            InlineKeyboardButton(text="🔞18+🔞", url=f"https://t.me/UDNA_SP_BKP/25"),
+            InlineKeyboardButton(text="🔗 ⛦⃕͜🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟⛦⃕͜ 🔗", url=f"https://www.instagram.com/its_krishna_2255/profilecard/?igsh=Nm93aDR5Mmo5eDFm"),
+            InlineKeyboardButton(text="💝 ABOUT 💝", url=f"DX_INFO"),
         ],
         [
             InlineKeyboardButton(text="🔙 Back", callback_data="about")
