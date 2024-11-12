@@ -1,7 +1,7 @@
-        「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𝐁α∂ 𝐌υи∂α🌸❤️ᥫ᭡፝֟፝֟ 」
+        「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭⛦⃕͜🇩𝐗🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟⛦⃕͜🝛꯭••➤‌‌‏‌🌸❤️ᥫ᭡፝֟፝֟ 」
 </h2>
 
-<p align="center"><a href="https://t.me/DX_LUCKY"><img src="https://graph.org/file/214a0a41f7d75c0f90758.jpg"></a></p>
+<p align="center"><a href="https://t.me/DX_LUCKY"><img src="https://envs.sh/ZzA.jpg"></a></p>
 
 
 ❍══════════════════════════❍
