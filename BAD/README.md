@@ -1,7 +1,7 @@
         「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𝐁α∂ 𝐌υи∂α🌸❤️ᥫ᭡፝֟፝֟ 」
 </h2>
 
-<p align="center"><a href="https://t.me/II_BAD_BBY_II"><img src="https://graph.org/file/214a0a41f7d75c0f90758.jpg"></a></p>
+<p align="center"><a href="https://t.me/DX_LUCKY"><img src="https://graph.org/file/214a0a41f7d75c0f90758.jpg"></a></p>
 
 
 ❍══════════════════════════❍
@@ -9,13 +9,13 @@
 
 
 
-1 ✧ ᴛɢ ɴᴀᴍᴇ  » ʙᴀᴅ ᴍᴜɴᴅᴀ 🥵
+1 ✧ ᴛɢ ɴᴀᴍᴇ  » ⛦⃕͜🇩𝐗🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟⛦⃕͜🝛꯭••➤ 🥵
 
 
 
 
 
-2 ✧ ʀᴇᴀʟ ɪᴅ   » @II_BAD_MUNDA_II  🌸
+2 ✧ ʀᴇᴀʟ ɪᴅ   » @DX_LUCKY  🌸
 
 
 
@@ -33,19 +33,19 @@
 
 
 
-5 ✧ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ » 😈 @BAD_BBY_02_BOT 😈
+5 ✧ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ » 😈 @ll_SECURITY_BOT 😈
 
 
 
 
 
-6 ✧ ᴍᴜsɪᴄ ʙᴏᴛ » 🎸 @MissBroken_Bot 🎸
+6 ✧ ᴍᴜsɪᴄ ʙᴏᴛ » 🎸 @DxMusicBOT 🎸
 
 
 
 
 
-7 ✧ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ » 💀 @BAD_STRING_SESSION_BOT 💀
+7 ✧ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ » 💀 @Dx_STRING_BOT 💀
 
 
 
@@ -64,25 +64,25 @@
 
 
 
-10 ✧ ᴅᴘᴢ ᴄʜᴀɴɴᴇʟ » 🥺 @BEAUTIFUl_DPZ 🥺
+10 ✧ ᴅᴘᴢ ᴄʜᴀɴɴᴇʟ » 🥺 @DX_INFO 🥺
 
 
 
 
 
-11 ✧ ғᴇʟʟɪɴɢ ʙᴀᴅ ᴄʜᴀɴɴᴇʟ » 😈 @FELLINGS_BAD 😈
+11 ✧ ғᴇʟʟɪɴɢ ʙᴀᴅ ᴄʜᴀɴɴᴇʟ » 😈 @DX_INFO 😈
 
 
 
 
 
-12 ✧ ᴄʜᴀᴛ ɢʀᴏᴜᴘ » 👼 @II_CHAT_HUB_II 😈
+12 ✧ ᴄʜᴀᴛ ɢʀᴏᴜᴘ » 👼 @DxFRIENDS 😈
 
 
 
 
 
-13 ✧ ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ » 👼 @ll_THE_BAD_BOT_ll 😈
+13 ✧ ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ » 👼 @YARANA_TG 😈
 
 
 
