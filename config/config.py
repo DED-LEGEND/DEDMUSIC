@@ -10,26 +10,26 @@ load_dotenv()
 
 # Get it from my.telegram.org
 
-API_ID = int(getenv("API_ID", ""))
+API_ID = int(getenv("API_ID", "20441777"))
 
-API_HASH = getenv("API_HASH")
+API_HASH = getenv("API_HASH", "fd95f54245913474eb42b36d40dfe3a1")
 
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN", "6337070254:AAHqd2gBPwkEuu-H33o8v8srbuRmuf6R-VE")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "FlopMusic_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "DxMusicBOT")
 
 # Bot id
-BOT_ID = int(getenv("BOT_ID", "6458155947"))
+BOT_ID = int(getenv("BOT_ID", "6337070254"))
 
 # Token allow for access youtube songs. [ True = use token data, False = use cookies ]
 TOKEN_ALLOW = os.getenv("TOKEN_ALLOW", "False")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
 DB_NAME = "badDB"
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ravi:ravi12345@cluster0.hndinhj.mongodb.net/?retryWrites=true&w=majority")
 
 # Time zone (india)
 TIME_ZONE = "Asia/Kolkata"
@@ -73,7 +73,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001764614031"))
 
 
 # Your User ID.
@@ -99,7 +99,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DED-LEGEND/BADMUSIC",
+    "https://github.com/DED-LEGEND/DEDMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Bad")
 
@@ -142,7 +142,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/DED-LEGEND/BADMUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/DED-LEGEND/DEDMUSIC")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -182,7 +182,7 @@ SET_CMDS = getenv("SET_CMDS", "False")
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @VIPStringBot
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQE36rEAqVAvECvZFqIC2hKZCkjecY7fNG3h5bojWqYkTkQe0bzmb0NC9jOG9JUWJZaV9mCXGzfAZG_hWfrnRvcU7n4xHfUApY5X4gRR-kfW3kZG-iEVfitXeB5mxjaV-Y0mNgXsqanklXmZ_s6Eo6o-ok3N6CL8xGiZVy0OGYxTNZn2ui0C5wk34_gOn2G6RZQo-ARgEhP_j6_JdoQl2xg8l2os5EZ8UYoXDzA7UaXPGLd4eFFwvEgkof0jmSHXVTOXfbjRVIeih8IdqDDE1Z0oHh6zbjqMNTv-Axy4LPgu4U3p2MXFl41U81heKS6ALVTRmcMwlghp_LcpeCWDn4FbA7ggFgAAAAG1gNHGAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
